@@ -22,3 +22,6 @@ provider
 📋 receive last clipboard text
 ✅ auto start after device boot
 ✨ Beautiful telegram bot interface
+
+
+https://t.me/RAT3X/11
